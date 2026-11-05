@@ -38,7 +38,7 @@ g++ midpoint.cpp -o midpoint.exe -lfreeglut -lopengl32 -lglu32
 .\midpoint.exe
 ```
 
-You can also open a `.cpp` file and press **`Ctrl+Shift+B`** (see Lab 1, Step 9).
+You can also open a `.cpp` file and press **`Ctrl+Shift+B`** (see [Lab 1, Step 9](../lab01/README.md#step-9-optional-build-and-run-with-one-shortcut)).
 
 ---
 
